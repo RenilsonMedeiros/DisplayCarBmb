@@ -4,7 +4,8 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/RenilsonMedeiros/DisplayCarBmb?color=%2300b1ff&style=flat)
 ![YouTube Video Views](https://img.shields.io/youtube/views/_Dg29awgiN8?style=social) <img src="https://img.shields.io/badge/Follow%20@bumbameubaja-1k-black?style=social&logo=instagram">
 
-<p> * [Sist](#Sistema) * [Sistem](#Sistema) </p>
+* [Interface](#Interface) 
+* [Sistema](#Sistema)
 
 ## Interface
 <p align="center">
